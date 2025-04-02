@@ -1,4 +1,4 @@
-# jsinteropsample
+# A WASM build and run test for a Flutter Web app
 
 To test JS Interop and flutter features that needs to work with WASM
 
