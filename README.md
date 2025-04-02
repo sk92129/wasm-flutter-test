@@ -19,3 +19,5 @@ When using flutter 3.27.3
 ![image](https://github.com/user-attachments/assets/5233edba-ba3d-4ca9-80f5-afc7a1f2633c)
 
 
+When using flutter 3.29.2
+![image](https://github.com/user-attachments/assets/060399f1-0a6a-403b-b43f-d8a832fc62e0)
