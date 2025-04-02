@@ -4,10 +4,13 @@ To test JS Interop and flutter features that needs to work with WASM
 
 To build and run:
 
+```
 flutter clean; flutter pub get; flutter build web --release --wasm
 cd build/web
 cp ../../python/server.py
 python3 server.py
+```
+
 
 Then open browser to localhost:8181
 
