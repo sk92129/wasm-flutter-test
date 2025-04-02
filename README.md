@@ -14,5 +14,8 @@ python3 server.py
 
 Then open browser to localhost:8181
 
-![image](https://github.com/user-attachments/assets/3df2f8e7-cad6-494e-bd17-3e1ee2c9f2de)
+When using flutter 3.27.3
+
+![image](https://github.com/user-attachments/assets/5233edba-ba3d-4ca9-80f5-afc7a1f2633c)
+
 
