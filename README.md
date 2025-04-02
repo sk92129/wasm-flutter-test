@@ -20,4 +20,6 @@ When using flutter 3.27.3
 
 
 When using flutter 3.29.2
+You can see the error in the browser console:
+UnimplementedError: cannot call build on the facade implementation of WebViewX
 ![image](https://github.com/user-attachments/assets/060399f1-0a6a-403b-b43f-d8a832fc62e0)
